@@ -13,8 +13,8 @@
 
 <h3 align="left">I´m using the following languages and Tools:</h3>
 <p align="left">
- <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="Angular" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
+ <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="Angular" width="24" height="24"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="24" height="24"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" title="CSS3" width="40" height="40"/> </a>
 <! --  -->
