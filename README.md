@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samir-ghag/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/samir-ghag/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samir-ghag/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/samir-ghag/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/samir_ghag" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="https://www.behance.net/samir_ghag" height="30" width="40" /></a>
 </p>
 
