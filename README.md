@@ -1,47 +1,51 @@
-<h3 align="left">Hey 👋, I'm Samir Ghag</h3>
-<h4 align="left">A passionate 💻 frontend developer from Mumbai, India </h4>
+# Hi there, I'm Samir 👋
 
-<hr />
+💻 **Senior Front-End Developer** | ⚡ **Angular Specialist** | 🛠 **Full-Stack Explorer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samir-ghag/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/samir-ghag/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/samir_ghag" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="https://www.behance.net/samir_ghag" height="30" width="40" /></a>
-</p>
+I have **7 years of experience** building and delivering modern web applications.
+My career began with **HTML, CSS, and jQuery** — crafting beautiful, accessible UIs for 3 years.
+Over the last 4 years, I’ve specialized in **Angular**, while also expanding into backend APIs, CI/CD, testing, and containerization.
 
-<hr/>
+---
 
-<h3 align="left">I´m using the following languages and Tools:</h3>
-<p align="left">
- <a href="https://angular.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="Angular" width="32" height="32"/></a> &nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="32" height="32"/></a> &nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" title="HTML5" width="32" height="32"/></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" title="CSS3" width="32" height="32"/></a> &nbsp;
-<a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="Sass" width="32" height="32"/></a> &nbsp;
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="Bootstrap" width="32" height="32"/></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="32" height="32"/></a> &nbsp;
-<a href="https://ionicframework.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" title="Ionic" width="32" height="32"/></a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJs" title="NodeJs" width="32" height="32"/></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="32" height="32"/></a> &nbsp
-&nbsp;
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a>
+## 🚀 About Me
 
+* 🔭 Currently working with **Angular**, **Node.js**, **Docker**, and **MySQL**
+* 📌 Experience in **code reviews**, **GitHub workflows**, and **CI/CD deployments**
+* ✍️ Writing **E2E test cases** with **Playwright**
+* 🛠 Creating APIs and integrating them into front-end projects
+* 🧠 Passionate about **performance optimization** and **developer best practices**
+* 🌏 Based in *Pune, India*
 
+---
 
-</p>
+## 🛠 Tech Stack
 
-<!--
-**saymir-sg/saymir-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Front-End**
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Back-End & Databases**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### **Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge\&logo=playwright\&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=angular\&logoColor=61DAFB)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samir-ghag/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samirghag18@gmail.com)
